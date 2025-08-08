@@ -68,6 +68,12 @@
     <li>Programming: Proficient in Python, JavaScript, Go, and Java</li>
     <li>Cloud & Automation: Application deployment, automation, CI/CD pipelines</li>
   </ul>
+</body>
+</html>
+
+
+
+
 
 </body>
 </html>
